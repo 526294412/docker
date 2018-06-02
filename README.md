@@ -1,5 +1,3 @@
-#### »¶Ó­¹Ø×¢ÎÒµÄ¼òÊé
-
-* [IT¹ÊÊÂ»á]{https://www.jianshu.com/u/46fb70e81d8c}
-* Î¢ĞÅ¹«ÖÚºÅ£º±à³Ì¿ÓÌ«¶à
-![image](http://upload-images.jianshu.io/upload_images/11223715-3407e1c7ac8d7935?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+#### æ¬¢è¿å…³æ³¨æˆ‘çš„ç®€ä¹¦ [ITæ•…äº‹ä¼š](https://www.jianshu.com/u/46fb70e81d8c)
+#### å¾®ä¿¡å…¬ä¼—å·ï¼šç¼–ç¨‹å‘å¤ªå¤š
+![](http://upload-images.jianshu.io/upload_images/11223715-3407e1c7ac8d7935?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
