@@ -6,13 +6,11 @@ Vagrant.require_version ">= 1.6.0"
 boxes = [
     {
         :name => "docker-node1",
-        :eth1 => "192.168.205.10",
         :mem => "1024",
         :cpu => "1"
     },
     {
         :name => "docker-node2",
-        :eth1 => "192.168.205.11",
         :mem => "1024",
         :cpu => "1"
     }
@@ -35,7 +33,7 @@ Vagrant.configure(2) do |config|
           v.customize ["modifyvm", :id, "--cpus", opts[:cpu]]
         end
 
-        config.vm.network :private_network, ip: opts[:eth1]
+        config.vm.network :private_network, type: "dhcp"
       end
   end
 
