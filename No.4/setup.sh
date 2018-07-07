@@ -13,3 +13,5 @@ sudo gpasswd -a vagrant docker
 sudo systemctl start docker
 
 rm -rf get-docker.sh
+
+curl -sSL https://get.daocloud.io/daotools/set_mirror.sh | sh -s http://b81aace9.m.daocloud.io
