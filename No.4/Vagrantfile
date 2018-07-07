@@ -5,7 +5,7 @@ Vagrant.require_version ">= 1.6.0"
 
 boxes = [
     {
-        :name => "docker-host",
+        :name => "docker-Compose",
         :mem => "1024",
         :cpu => "1"
     }
