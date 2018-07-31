@@ -18,14 +18,14 @@ services:
       replicas: 3
       restart_policy:
         condition: on-failure
-        delay: 5s
+        delay: 30s
         max_attempts: 3
       update_config:
         parallelism: 1
         delay: 10s
 
   mysql:
-    image: mysql
+    image: mysql:5.7
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_DATABASE: wordpress
